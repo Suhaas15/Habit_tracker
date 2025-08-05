@@ -3,9 +3,9 @@ from datetime import datetime
 
 pixela_endpoint="https://pixe.la/v1/users"
 
-TOKEN="token"
-USERNAME="name"
-GRAPH_ID = "graph_id"
+TOKEN="tokenkeyforhabittracking"
+USERNAME="suhaas15"
+GRAPH_ID = "graph1"
 
 user_params={
     "token": TOKEN,
