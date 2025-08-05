@@ -1,11 +1,9 @@
 import requests
 from datetime import datetime
 
-from Habit_Tracking.update_pixela import PIXELA_TOKEN
-
 pixela_endpoint="https://pixe.la/v1/users"
 
-TOKEN=PIXELA_TOKEN
+TOKEN="tokenkeyforhabittracking"
 USERNAME="suhaas15"
 GRAPH_ID = "graph1"
 
